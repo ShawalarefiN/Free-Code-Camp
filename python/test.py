@@ -11,3 +11,4 @@ print(my_str_3)
 name01 = 'shawal'
 name02 = 'arefin'
 print(f'my name is {name01} {name02}')
+print(name01[-1])
